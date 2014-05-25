@@ -1,4 +1,5 @@
-get_next_line
-=============
+used functions: read, lseek, malloc, realloc.
 
-functions: read, lseek, malloc, realloc.
+usage:	gcc *.c -o test
+		./test [FILE NAME]
+		./test < [FILE NAME]
